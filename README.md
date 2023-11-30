@@ -1,7 +1,13 @@
+
+https://github.com/Sanjeevani-IITBH/Text_to_Image_Diffusion_Model/assets/150852361/610c0379-4fb3-44e5-b683-88653d9b5c12
 # Text-To-Image-diffusion-models-as-vision-generalists.
 The Fashion Design Inspirator project is an innovative system that revolutionizes the fashion design process. It generates visual representations based on fashion design descriptions or concepts provided by users. Designers can input specific details such as fabrics, colors, and styles, and the system responds by creating high-quality images that vividly depict their envisioned designs. This tool serves as a dynamic platform for designers to explore, refine, and draw inspiration from their creative ideas, significantly streamlining the initial stages of the design process. Ultimately, the Fashion Design Inspirator empowers designers to bring their imaginative fashion concepts to life with unprecedented efficiency and precision.
 
 ## Tutorial
+
+https://github.com/Sanjeevani-IITBH/Text_to_Image_Diffusion_Model/assets/150852361/fdad63e1-e5cd-42f4-b34b-66eda1740e20
+
+
 <video width="800" height="400" controls autoplay loop>
   <source src="ML_PROJECT_DEMO.mp4" type="video/mp4">
   Your browser does not support the video tag.
